@@ -2,7 +2,7 @@ const sendBtn = document.getElementById("sendBtn");
 const userInput = document.getElementById("userInput");
 const chatBox = document.getElementById("chat");
 
-const GEMINI_API_KEY = "AIzaSyA3Z2HibCYLKjPv-AkPx9w1is22Ml3UsWo"; // Replace with your actual API key
+const GEMINI_API_KEY = ""; // Replace with your actual API key
 
 // Event listener for Enter key
 userInput.addEventListener("keydown", (e) => {
